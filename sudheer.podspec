@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint sachin.podspec' to ensure this is a
+#  Be sure to run `pod spec lint sudheer.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,12 +15,12 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "sachin"
+  s.name         = "sudheer"
   s.version      = "1.0.1"
   s.summary      = "A sachin is master."
 
   s.description  = <<-DESC
-                   A longer description of sachin in Markdown format.
+                   A longer description of sudheer in Markdown format.
 
                    * Think: Why did you write this? What is the focus? What does it do?
                    * CocoaPods will be using this to generate tags, and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/pskr1894/SKR_DONATE.git", :commit => "388bea19c2f72cf670a23947c87050173e784b86", :tag => "1.0.1" } 
+  s.source       = { :git => "https://github.com/pskr1894/SKR_DONATE.git", :commit => "6c7f198a7e4f12081250116270401c0c39cdb6b4", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
