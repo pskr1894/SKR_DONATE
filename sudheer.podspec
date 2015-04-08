@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/pskr1894/SKR_DONATE.git", :commit => "6c7f198a7e4f12081250116270401c0c39cdb6b4", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/pskr1894/SKR_DONATE.git", :commit => "53f40b2f2111c98a8e102b3eab299845047b3b7b", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
